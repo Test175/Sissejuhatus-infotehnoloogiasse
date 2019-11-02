@@ -1,0 +1,48 @@
+<html>
+<body>
+  <h1>This is my website</h1>
+  <style>
+  table, th, td {border: 1px solid black;}
+  table{border-collapse: collapse}
+  </style>
+      Matriklinumber: 193641IADB
+      <h2>Short story</h2>
+      <p>There once was a village located deep in the mountains.
+      It was known for its crystal clear rivers and medicinal herbs, but then came a time of strife. To this day I remember the black smoke rising beyond the horizon. The village which was once deemed a place of eternal peace and a shelter to all who sought it was now engoulfed in flames. The marauders have come to this serene village.</p>
+      <p>The savages knew of the remotness of the village and so they took their time pillaging and burning all signs of peace they saw. They trampled over herbs that fed the village, burned the straw huts with all their winter stockpile without bating an eye and soon the once crystal clear rivers ran with blood and ash.</p>
+      <p>Help arrived on the brink of the second dawn, but there was no person to save. Even those left alive could not be considered living anymore as their eyes were stained with the imagery of their home being destroyed while they cowered belove the bodies of their fallen brothers and sisters. The once peacefull village became a legend saught by the desperate only for them to find a field of ash, half burned houses and bloodstained grass.</p>
+
+      <h2>Car parts table</h2>
+    <table>
+      <tr>
+          <th>Part</th>
+          <th>Function</th>
+      </tr>
+      <tr>
+          <td>Engine</td>
+          <td>Provide rotational force through the driveshaft to the wheels.</td>
+      </tr>
+      <tr>
+          <td>Batter</td>
+          <td>Provide temporary storage of electrikal power provided by the engine mounted generator and to supply power to the starter.</td>
+      </tr>
+      <tr>
+          <td>Gearbox</td>
+          <td>Provide a more precise control over the torque and the maximum rotational speed the wheels can effectively achieve</td>
+      </tr>
+    </table>
+
+  <br>
+
+  <iframe width="500" height="400" src="https://www.youtube.com/watch?v=qIF3rY2Fatg">
+  </iframe>
+  <br>
+
+  <p>
+    <a href="https://www.reddit.com/r/AskReddit/comments/1pcw69/whats_the_most_interesting_reddit_thread_youve/"> This is a link to some fascinating threads on reddit</a>
+  </p>
+  <br>
+
+  <img src="https://img.memecdn.com/einstein-not-a-known-giver-of-fuck_o_1227115.webp">
+</body>
+</html>
